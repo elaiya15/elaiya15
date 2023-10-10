@@ -7,9 +7,12 @@
 -🔭 I’m currently working on **MY Portfolio Projects ** <br> -👯 I’m looking to collaborate on**Frontend and Backend Dev Projects** <br>-🤝 I’m looking for help with<br>-🌱 I’m currently Completed **MERN Stack Development Courses**<br>- 💬 Ask me about **Technology and Pesonal Development** <br>- 📫 How to reach me **elaiyavenkat@gmail.com**<br> -⚡ Fun fact :) **University education is not obligatory**
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 <!-- <img  align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json"> -->
-<iframe align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json">
-
-
+<!-- <iframe align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json"> -->
+<script src="https://unpkg.com/@dotlottie/player-component@v1.3.0/dist/dotlottie-player.js"></script>
+  <div id="container">
+            <dotlottie-player background="transparent" speed="1" loop="" autoplay=""></dotlottie-player>
+        </div>
+        <script type="text/javascript" src="embed-script.js"></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elaiya/) 
