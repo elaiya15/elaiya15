@@ -3,9 +3,10 @@
 <h3 align="center">A Up Coming Full Stock Developer</h3>
 
 
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently Completed: MERN Stack Development  Courses<br>💬 Ask me about : I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies . I Like to Take Coding Challenges And hands - On Projects and Enhance them Into My Opportunities , Knowledge and Experience . Getting Ready to Take On New Challenges In The Tech World . <br>⚡ Fun fact :)  University education is not obligatory<br>Kinsta also highlighted that 60% of developers learned how to code online, so having a software engineering degree is not a prerequisite for landing a job. In addition, computer science trends emerge too fast for even top universities to update their curriculums, so tech companies tend to hire professionals with practical skills. Therefore, being self-taught is an asset whether or not you’re pursuing a relevant degree.
-
+# 💫 About Me: I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies . I Like to Take Coding Challenges And hands - On Projects and Enhance them Into My Opportunities , Knowledge and Experience . Getting Ready to Take On New Challenges In The Tech World.
+- 🔭 I’m currently working on  ** MY Portfolio Projects **  <br>- 👯 I’m looking to collaborate on ** Frontend and Backend Dev Projects** <br>- 🤝 I’m looking for help with<br>- 🌱 I’m currently Completed **MERN Stack Development Courses**<br>- 💬 Ask me about **React,MERN** <br>- 📫 How to reach me **elaiyavenkat@gmail.com**<br>- ⚡ Fun fact :) ** University education is not obligatory**
+<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
+<iframe align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json"></iframe>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elaiya/) 
