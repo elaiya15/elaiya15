@@ -4,7 +4,7 @@
 
 
 # 💫 About Me: 
-- 🔭 **I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies . I Like to Take Coding Challenges And hands - On Projects and Enhance them Into My Opportunities , Knowledge and Experience . Getting Ready to Take On New Challenges In The Tech World.** <br> -👯 I’m looking to collaborate on **Frontend and Backend Dev Projects** <br>-🤝 I’m looking for help with<br>-🌱 I’m currently Completed **MERN Stack Development Courses**<br>- 💬 Ask me about **Technology and Pesonal Development** <br>- 📫 How to reach me **elaiyavenkat@gmail.com**<br> -⚡ Fun fact :) **University education is not obligatory**
+- 🔭 **I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies . I Like to Take Coding Challenges And hands - On Projects and Enhance them Into My Opportunities , Knowledge and Experience . Getting Ready to Take On New Challenges In The Tech World.** <br> - 👯 I’m looking to collaborate on **Frontend and Backend Dev Projects** <br>- 🤝 I’m looking for help with<br>-🌱 I’m currently Completed **MERN Stack Development Courses**<br>- 💬 Ask me about **Technology and Pesonal Development** <br>- 📫 How to reach me **elaiyavenkat@gmail.com**<br> -⚡ Fun fact :) **University education is not obligatory**
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 <!-- <img  align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json"> -->
 <!-- <iframe align="right" alt="Coding" width="400" src="https://lottie.host/?file=b767f3ce-663e-4ce8-9ceb-00658c206316/7v4poDc9FZ.json"> -->
