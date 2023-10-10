@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Elaiya</h1>
-<h3 align="center">A Up Coming Full Stock Developer</h3>
+<h3 align="center">A Up Coming Full Stack Developer</h3>
 
 # 💫 About Me: 
 - 🔭 **I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies.I Like to Take Coding Challenges And hands-On Projects and Enhance them Into My Opportunities,Knowledge and Experience.Getting Ready to Take On New Challenges In The Tech World.**
