@@ -3,6 +3,8 @@
 <h3 align="center">A Up Coming Full Stack Developer</h3>
 
  <img align="right" alt="Coding" width="400" src="https://rudiraglobalsolutions.com/wp-content/uploads/2021/09/72281-data-entry.gif"> 
+
+ 
 # 💫 About Me: 
 - 🔭 **I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies.I Like to Take Coding Challenges And hands-On Projects and Enhance them Into My Opportunities,Knowledge and Experience.Getting Ready to Take On New Challenges In The Tech World.**
   
@@ -12,8 +14,8 @@
 - 💬 Ask me about **Technology and Pesonal Development**
 -  📫 How to reach me **elaiyavenkat@gmail.com**
 - ⚡ Fun fact :) **University education is not obligatory**
- <img align="right" alt="Coding" width="400" src="https://rudiraglobalsolutions.com/wp-content/uploads/2021/09/72281-data-entry.gif"> 
 
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elaiya/) 
