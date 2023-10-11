@@ -8,9 +8,7 @@
  
 # 💫 About Me: 
 - 🔭 **I'm Currently Learned MERN Stack Development With a Specialization in Web Technologies.I Like to Take Coding Challenges And hands-On Projects and Enhance them Into My Opportunities,Knowledge and Experience.Getting Ready to Take On New Challenges In The Tech World.**
-  
 - 👯 I’m looking to collaborate on **Frontend and Backend Dev Projects**
-- 🤝 I’m looking for help with
 - 🌱 I’m currently Completed **MERN Stack Development Courses**
 - 💬 Ask me about **Technology and Pesonal Development**
 -  📫 How to reach me **elaiyavenkat@gmail.com**
